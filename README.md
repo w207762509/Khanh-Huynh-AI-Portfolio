@@ -1,6 +1,6 @@
 # Khanh-Huynh-AI-Portfolio
 
-I am Khanh Huynh. This repository serves as a portfolio of the projects and technical expertise I developed while earning my Associate Degree in Artificial Intelligence at Houston Community College (HCC). The program has equipped me to build intelligent systems that transform how we live and work through data-driven insights and advanced programming.
+I am Khanh Huynh. This repository serves as a portfolio of the projects and technical expertise I developed while earning my Associate Degree in Artificial Intelligence at Houston City College (HCC). The program has equipped me to build intelligent systems that transform how we live and work through data-driven insights and advanced programming.
 
 My academic journey provided hands-on experience across a broad spectrum of emerging technologies, including Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. Beyond core AI, I explored specialized fields such as autonomous systems, RPA, blockchain, and immersive simulations (VR/Ray Tracing).
 
